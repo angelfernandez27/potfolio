@@ -1,2 +1,2 @@
 # potfolio
-- [PortfolioPersonal](https://angelfernandez27.github.io/Portfolio/)
+- [PortfolioPersonal](https://angelfernandez27.github.io/potfolio/)
